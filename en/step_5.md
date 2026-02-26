@@ -1,62 +1,44 @@
-## Another page
-
-Add another page to your magazine website.
+<h2 class="c-project-heading--task">STEP TITLE</h2>
 
 --- task ---
 
-Click **Add file** and call your new file `page2.html`:
-
-![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in](images/page2.png)
+BRIEF SUMMARY OF STEP - one line
 
 --- /task ---
 
---- task ---
+## Columns
 
-Select all of the code from `index.html`, copy it and then paste it into `page2.html`.
-
---- /task ---
-
+Websites often use multiple columns. Create a two column layout for your magazine.
 
 --- task ---
 
-In `page2.html`, change the `<h1>` title to the title for your new page.
-
---- code ---
----
-language: html
-filename: page2.html
-line_numbers: true
-line_number_start: 8
-line_highlights: 8
----
-<h1>Kitten care</h1>
---- /code ---
-
---- /task ---
-
---- task ---
-
-Go back to `index.html`. Add a link to your second page:
+Select the `index.html` file and add code to create two columns. 
 
 --- code ---
 ---
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 8
-line_highlights: 11
+line_number_start: 7
+line_highlights: 9-14
 ---
+<body>
 <h1>My magazine</h1>
 <div class="column1">
-	Welcome to the kitten fan club
-    <a href="page2.html">Page 2</a>
+	Column 1
 </div>
+<div class="column2">
+	Column 2
+</div>
+</body>
+
 --- /code ---
 
 --- /task ---
 
 --- task ---
 
-Test that you can click on your new link and move to page 2 of your magazine.
+Switch back to `style.css` and find the styles for `column1` and `column2`.
 
 --- /task ---
+

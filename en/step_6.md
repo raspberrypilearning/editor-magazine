@@ -1,17 +1,42 @@
-## Challenge
-
---- challenge ---
+<h2 class="c-project-heading--task">STEP TITLE</h2>
 
 --- task ---
 
-Fill in the content in `page2.html`. Look on the **images** tab to see some other images you could include on your page. 
+BRIEF SUMMARY OF STEP - one line
 
 --- /task ---
+
 
 --- task ---
 
-Add a link from `page2.html` back to `index.html` so that you can click on it to get back to the first page
+Switch back to `style.css` and find the styles for `column1` and `column2`.
 
 --- /task ---
 
---- /challenge ---
+
+
+--- task ---
+
+Add a `float` property to each column style so that one floats to the left and the other floats to the right.
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 14
+line_highlights: 16, 21
+---
+.column1 {
+    width: 48%;
+	float: left;
+}
+
+.column2 {
+    width: 48%;
+	float: right;
+}
+
+--- /code ---
+
+--- /task ---

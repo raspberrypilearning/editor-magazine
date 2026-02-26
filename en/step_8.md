@@ -9,7 +9,7 @@ BRIEF SUMMARY OF STEP - one line
 
 --- task ---
 
-Replace the `Column 2` text with a kitten picture.
+Add a class `photo` to the image so that you can style it:
 
 --- code ---
 ---
@@ -20,11 +20,10 @@ line_number_start: 12
 line_highlights: 13
 ---
 <div class="column2">
-	<img src="kitten.jpg">
+	<img src="kitten.jpg" class="photo">
 </div>
 </body>
 
 --- /code ---
 
 --- /task ---
-

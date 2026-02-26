@@ -1,23 +1,35 @@
-## Content
-
-Add some content to your magazine in the left column.
+<h2 class="c-project-heading--task">STEP TITLE</h2>
 
 --- task ---
 
-Add some text to your web page in `Column 1`.
+BRIEF SUMMARY OF STEP - one line
+
+--- /task ---
+
+
+
+--- task ---
+
+
+
+Look at the CSS style for `body`. Change the colours of the background and the font to your own choices.
 
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
 line_number_start: 8
-line_highlights: 10
+line_highlights: 9-10
 ---
-<h1>My magazine</h1>
-<div class="column1">
-	Welcome to the kitten fan club
-</div>
+body {
+  background: linear-gradient(to bottom right, red, white);
+  font-family: Verdana;
+  padding: 15px;
+}
+
 --- /code ---
 
 --- /task ---
+
+
