@@ -19,7 +19,7 @@ language: html
 filename: page2.html
 line_numbers: true
 line_number_start: 8
-line_highlights: 8,10
+line_highlights: 8, 10
 ---
 <h1>Kitten care</h1>
 <div class="column1">
