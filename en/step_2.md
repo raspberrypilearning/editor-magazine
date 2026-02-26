@@ -16,7 +16,7 @@ line_number_start: 7
 line_highlights: 8
 ---
 <body>
-	<h1>My Magazine</h1>
+<h1>My Magazine</h1>
 
 </body>
 --- /code ---

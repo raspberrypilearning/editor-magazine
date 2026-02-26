@@ -1,51 +1,45 @@
-<h2 class="c-project-heading--task">Challenge</h2>
+<h2 class="c-project-heading--task">Copy content</h2>
 
 --- task ---
 
-Upgrade your website magazine!
+Select all of the code from `index.html`, copy it and then paste it into `page2.html`.
 
 --- /task ---
 
-
 --- task ---
 
-Add some content to your magazine in the left column.
+In `page2.html`, change the `<h1>` title to the title for your new page.
 
 --- /task ---
-
-
---- task ---
-
-Add some text to your web page in `Column 1`.
-
-
 
 <div class="c-project-code">
 --- code ---
 ---
 language: html
-filename: index.html
+filename: page2.html
 line_numbers: true
 line_number_start: 8
-line_highlights: 10
+line_highlights: 8,10
 ---
-<h1>My magazine</h1>
+<h1>Kitten care</h1>
 <div class="column1">
-	Welcome to the kitten fan club
+	Another page about cats
+      <a href="page2.html">Page 2</a>
 </div>
+<div class="column2">
+	<img src="kitten.jpg" class="photo">
 --- /code ---
+
+--- task ---
+
+Click **Run** and click on the link again to see the content appear.
+
+--- /task ---
+
 </div>
---- /task ---
 
---- task ---
+<div class="c-project-output">
 
-Fill in the content in `page2.html`. Look on the **images** tab to see some other images you could include on your page. 
+![ADD](images/step11.png)
 
---- /task ---
-
---- task ---
-
-Add a link from `page2.html` back to `index.html` so that you can click on it to get back to the first page
-
---- /task ---
-
+</div>

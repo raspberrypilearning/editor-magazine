@@ -7,8 +7,6 @@ Change the style of the heading.
 
 --- /task ---
 
-Magazine websites often have lots of small items on a page. Style your heading so that it stands out.
-
 --- task ---
 
 In the sidebar, open the `style.css` file.  
@@ -19,7 +17,7 @@ In the sidebar, open the `style.css` file.
 
 --- task ---
 
-Copy this code example, and edit the `color` and other elements to change the style.
+Change the colours in `color` and `background` using the code below.
 
 --- /task ---
 
@@ -31,17 +29,18 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 1
+line_highlights: 3-4
 ---
 h1 {
     text-align: center;
-    color: white;
-    background: black;
+    color: blue;
+    background: yellow;
     padding: 5px;
 }
 --- /code ---
 --- task ---
 
-Click **Run** and see your style in the visual editor.
+Click **Run** and see your style in the visual editor. Experiment with colours until you find a combination you like.
 
 --- /task ---
 
@@ -50,5 +49,13 @@ Click **Run** and see your style in the visual editor.
 <div class="c-project-output">
 
 ![ADD](images/step3b.png)
+
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 </div>

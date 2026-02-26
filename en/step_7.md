@@ -1,24 +1,10 @@
-<h2 class="c-project-heading--task">Add an image</h2>
+<h2 class="c-project-heading--task">Align the columns</h2>
 
 --- task ---
 
-Replace the `Column 2` text with a kitten picture.
+Add some text to your web page in `Column 1`.
 
 --- /task ---
-
---- task ---
-
-Add a `photo` class to the image so that you can style it.
-
---- /task ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-An HTML **class** is a way to choose certain parts of a web page so you can change how they look using CSS.
-
-</div>
 
 <div class="c-project-code">
 --- code ---
@@ -26,21 +12,17 @@ An HTML **class** is a way to choose certain parts of a web page so you can chan
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 12
-line_highlights: 13
+line_number_start: 8
+line_highlights: 10
 ---
-<div class="column2">
-	<img src="kitten.jpg" class="photo">
+<h1>My magazine</h1>
+<div class="column1">
+	Welcome to the kitten fan club
 </div>
-</body>
-
 --- /code ---
+
 --- task ---
-
-Click **Run** and see your how your image appear.
-
 --- /task ---
-
 </div>
 
 <div class="c-project-output">
@@ -48,6 +30,4 @@ Click **Run** and see your how your image appear.
 ![ADD](images/step7.png)
 
 </div>
-
-
 

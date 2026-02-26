@@ -2,7 +2,13 @@
 
 --- task ---
 
-Look at the CSS style for `body`. Change the colours of the background and the font to your own choices.
+Look at the CSS style for `body`. Change the colours of the **background** and the **font** to your own choices.
+
+--- /task ---
+
+--- task ---
+
+Try adding other fonts, for example: `arial`, `impact`, `tahoma` or `Comic Sans MS`
 
 --- /task ---
 
@@ -16,8 +22,8 @@ line_number_start: 8
 line_highlights: 9-10
 ---
 body {
-  background: linear-gradient(to bottom right, red, white);
-  font-family: Verdana;
+  background: linear-gradient(to bottom gold, , coral);
+  font-family: Comic Sans MS;
   padding: 15px;
 }
 
@@ -25,7 +31,7 @@ body {
 
 --- task ---
 
-Click **Run** and see your background change in the visual editor.
+Click **Run** and see your background and font change in the visual editor.
 
 --- /task ---
 
@@ -37,8 +43,3 @@ Click **Run** and see your background change in the visual editor.
 
 </div>
 
-### Tip
-
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
-
-</div>

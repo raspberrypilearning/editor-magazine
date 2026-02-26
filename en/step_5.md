@@ -8,7 +8,7 @@ Websites often use multiple columns. Create a two column layout for your magazin
 
 --- task ---
 
-Select the `index.html` file and add code to create two columns. 
+First add the columns in HTML. Select the `index.html` file and add code to create two columns. 
 
 --- /task ---
 
@@ -35,7 +35,7 @@ line_highlights: 9-14
 
 --- task ---
 
-Click **Run** and see your the text in two columns.
+Click **Run** and see your the text in two columns. They need to be styled with CSS to have a two column layout.
 
 --- /task ---
 
