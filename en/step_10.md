@@ -10,6 +10,8 @@ Select all of the code from `index.html`, copy it and then paste it into `page2.
 
 In `page2.html`, change the `<h1>` title to the title for your new page.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
