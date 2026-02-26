@@ -1,29 +1,38 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Style the image</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
 
 --- /task ---
 
 
---- task ---
-
-Add a class `photo` to the image so that you can style it:
-
+<div class="c-project-code">
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 12
-line_highlights: 13
+line_number_start: 28
+line_highlights: 29-30
 ---
-<div class="column2">
-	<img src="kitten.jpg" class="photo">
-</div>
-</body>
-
+.photo {
+    box-shadow: 4px 4px 4px gray;
+    transform: rotate(10deg);
+}
 --- /code ---
+--- task ---
+
+Click **Run** and see your how your image appear.
 
 --- /task ---
+
+</div>
+
+
+<div class="c-project-output">
+
+![A webpage with a red gradient background and two columns. There is a picture of a kitten in the right column, with a drop shadow and at an angle](images/angled_kitten.png)
+
+</div>
+

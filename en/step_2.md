@@ -1,24 +1,12 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Heading</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Decide on a name for your magazine and add it as an `<h1>` heading.
 
 --- /task ---
 
-## Heading and Background
-
-Magazine-style websites often have lots of small items on a page. First, create a heading and background for your magazine.
-
---- task ---
-
-Open the <a href="https://editor.raspberrypi.org/en/projects/magazine-starter" target="_blank">starter project</a>.
-
---- /task ---
-
---- task ---
-Make up a name for your magazine and add it as a `<h1>` heading.
-
+<div class="c-project-code">
 --- code ---
 ---
 language: html
@@ -31,7 +19,17 @@ line_highlights: 8
 	<h1>My Magazine</h1>
 
 </body>
-
 --- /code ---
+--- task ---
+
+Click **Run** and see your title in the visual editor.
 
 --- /task ---
+
+</div>
+
+<div class="c-project-output">
+
+![ADD](images/step2.png)
+
+</div>

@@ -1,21 +1,26 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Challenge</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Upgrade your website magazine!
 
 --- /task ---
 
 
-MAKE THIS A CHALLENFGE
-## Content
+--- task ---
 
 Add some content to your magazine in the left column.
+
+--- /task ---
+
 
 --- task ---
 
 Add some text to your web page in `Column 1`.
 
+
+
+<div class="c-project-code">
 --- code ---
 ---
 language: html
@@ -29,12 +34,8 @@ line_highlights: 10
 	Welcome to the kitten fan club
 </div>
 --- /code ---
-
+</div>
 --- /task ---
-
-## Challenge
-
---- challenge ---
 
 --- task ---
 
@@ -48,4 +49,3 @@ Add a link from `page2.html` back to `index.html` so that you can click on it to
 
 --- /task ---
 
---- /challenge ---

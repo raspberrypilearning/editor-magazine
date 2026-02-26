@@ -1,19 +1,18 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Add columns</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Websites often use multiple columns. Create a two column layout for your magazine.
 
 --- /task ---
-
-## Columns
-
-Websites often use multiple columns. Create a two column layout for your magazine.
 
 --- task ---
 
 Select the `index.html` file and add code to create two columns. 
 
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
 language: html
@@ -34,11 +33,16 @@ line_highlights: 9-14
 
 --- /code ---
 
---- /task ---
-
 --- task ---
 
-Switch back to `style.css` and find the styles for `column1` and `column2`.
+Click **Run** and see your the text in two columns.
 
 --- /task ---
 
+</div>
+
+<div class="c-project-output">
+
+![ADD](images/step5.png)
+
+</div>

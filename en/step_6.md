@@ -1,11 +1,10 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Align the columns</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Make the columns `float` to the left or right.
 
 --- /task ---
-
 
 --- task ---
 
@@ -14,11 +13,13 @@ Switch back to `style.css` and find the styles for `column1` and `column2`.
 --- /task ---
 
 
-
 --- task ---
 
 Add a `float` property to each column style so that one floats to the left and the other floats to the right.
 
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
 language: css
@@ -38,5 +39,17 @@ line_highlights: 16, 21
 }
 
 --- /code ---
+--- task ---
+
+Click **Run** and see your how your columns align.
 
 --- /task ---
+
+</div>
+
+<div class="c-project-output">
+
+![ADD](images/step6.png)
+
+</div>
+

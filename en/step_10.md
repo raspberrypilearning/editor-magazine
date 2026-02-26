@@ -1,22 +1,4 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
-
---- task ---
-
-BRIEF SUMMARY OF STEP - one line
-
---- /task ---
-
-## Another page
-
-Add another page to your magazine website.
-
---- task ---
-
-Click **Add file** and call your new file `page2.html`:
-
-![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in](images/page2.png)
-
---- /task ---
+<h2 class="c-project-heading--task">Copy content</h2>
 
 --- task ---
 
@@ -24,11 +6,11 @@ Select all of the code from `index.html`, copy it and then paste it into `page2.
 
 --- /task ---
 
-
 --- task ---
 
 In `page2.html`, change the `<h1>` title to the title for your new page.
 
+<div class="c-project-code">
 --- code ---
 ---
 language: html
@@ -40,4 +22,16 @@ line_highlights: 8
 <h1>Kitten care</h1>
 --- /code ---
 
+--- task ---
+
+Click **Run** and click on the link again to see the connent appear.
+
 --- /task ---
+
+</div>
+
+<div class="c-project-output">
+
+![ADD](images/step10.png)
+
+</div>

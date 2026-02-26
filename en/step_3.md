@@ -3,14 +3,27 @@
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Change the style of the heading.
 
 --- /task ---
 
+Magazine websites often have lots of small items on a page. Style your heading so that it stands out.
 
 --- task ---
-In the sidebar, open the `style.css` file. Change the style of the heading. Here's an example, but you can choose your own style:
 
+In the sidebar, open the `style.css` file.  
+
+![ADD](images/step3a.png)
+
+--- /task ---
+
+--- task ---
+
+Copy this code example, and edit the `color` and other elements to change the style.
+
+--- /task ---
+
+<div class="c-project-code">
 
 --- code ---
 ---
@@ -26,5 +39,16 @@ h1 {
     padding: 5px;
 }
 --- /code ---
+--- task ---
+
+Click **Run** and see your style in the visual editor.
 
 --- /task ---
+
+</div>
+
+<div class="c-project-output">
+
+![ADD](images/step3b.png)
+
+</div>

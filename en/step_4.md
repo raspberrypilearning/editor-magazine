@@ -1,19 +1,12 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Change the background</h2>
 
 --- task ---
-
-BRIEF SUMMARY OF STEP - one line
-
---- /task ---
-
-
-
---- task ---
-
-
 
 Look at the CSS style for `body`. Change the colours of the background and the font to your own choices.
 
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
 language: css
@@ -30,6 +23,22 @@ body {
 
 --- /code ---
 
+--- task ---
+
+Click **Run** and see your background change in the visual editor.
+
 --- /task ---
 
+</div>
 
+<div class="c-project-output">
+
+![ADD](images/step4.png)
+
+</div>
+
+### Tip
+
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+</div>
