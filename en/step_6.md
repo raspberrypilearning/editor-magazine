@@ -39,17 +39,15 @@ line_highlights: 16, 21
 }
 
 --- /code ---
+</div>
 --- task ---
 
 Click **Run** and see your how your columns align.
 
 --- /task ---
 
-</div>
-
 <div class="c-project-output">
 
 ![ADD](images/step6.png)
 
 </div>
-

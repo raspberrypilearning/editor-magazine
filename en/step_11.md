@@ -29,14 +29,13 @@ line_highlights: 8, 10
 <div class="column2">
 	<img src="kitten.jpg" class="photo">
 --- /code ---
+</div>
 
 --- task ---
 
 Click **Run** and click on the link again to see the content appear.
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 

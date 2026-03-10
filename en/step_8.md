@@ -28,13 +28,12 @@ line_highlights: 13
 </body>
 
 --- /code ---
+</div>
 --- task ---
 
 Click **Run** and see your how your image appear.
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 
@@ -50,4 +49,3 @@ Click **Run** and see your how your image appear.
 The image has a `photo` class. An HTML **class** is a way to choose certain parts of a web page so you can change how they look using CSS.
 
 </div>
-

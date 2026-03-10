@@ -21,13 +21,12 @@ line_highlights: 29-30
     transform: rotate(10deg);
 }
 --- /code ---
+</div>
 --- task ---
 
 Click **Run** and see your how your image appear.
 
 --- /task ---
-
-</div>
 
 
 <div class="c-project-output">
@@ -35,4 +34,3 @@ Click **Run** and see your how your image appear.
 ![ADD](images/step9.png)
 
 </div>
-

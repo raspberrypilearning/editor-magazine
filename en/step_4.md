@@ -28,6 +28,7 @@ body {
 }
 
 --- /code ---
+</div>
 
 --- task ---
 
@@ -35,11 +36,8 @@ Click **Run** and see your background and font change in the visual editor.
 
 --- /task ---
 
-</div>
-
 <div class="c-project-output">
 
 ![ADD](images/step4.png)
 
 </div>
-

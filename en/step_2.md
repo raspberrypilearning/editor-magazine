@@ -20,13 +20,12 @@ line_highlights: 8
 
 </body>
 --- /code ---
+</div>
 --- task ---
 
 Click **Run** and see your title in the visual editor.
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 

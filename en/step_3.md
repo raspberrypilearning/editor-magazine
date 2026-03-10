@@ -38,13 +38,12 @@ h1 {
     padding: 5px;
 }
 --- /code ---
+</div>
 --- task ---
 
 Click **Run** and see your style in the visual editor. Experiment with colours until you find a combination you like.
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 

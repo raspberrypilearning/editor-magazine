@@ -35,6 +35,7 @@ line_highlights: 11
     <a href="page2.html">Page 2</a>
 </div>
 --- /code ---
+</div>
 
 --- task ---
 
@@ -42,11 +43,8 @@ Test that you can click on your new link and move to page 2 of your magazine.
 
 --- /task ---
 
-</div>
-
 <div class="c-project-output">
 
 ![ADD](images/step10.png)
 
 </div>
-

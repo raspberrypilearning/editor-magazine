@@ -32,14 +32,13 @@ line_highlights: 9-14
 </body>
 
 --- /code ---
+</div>
 
 --- task ---
 
 Click **Run** and see your the text in two columns. They need to be styled with CSS to have a two column layout.
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 

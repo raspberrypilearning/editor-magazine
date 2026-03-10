@@ -20,14 +20,13 @@ line_highlights: 10
 	Welcome to the kitten fan club
 </div>
 --- /code ---
+</div>
 
 --- task ---
 --- /task ---
-</div>
 
 <div class="c-project-output">
 
 ![ADD](images/step7.png)
 
 </div>
-
