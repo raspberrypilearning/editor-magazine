@@ -29,12 +29,8 @@ line_highlights: 8, 10-11
     <a href="page2.html">Go back</a>
   </div>
   <div class="column2">
-    <img src="kitten.jpg" class="photo">
+    <img src="cat2.jpg" class="photo">
   </div>
-
-</body>
-
-</html>
 --- /code ---
 </div>
 
@@ -46,6 +42,6 @@ Click **Run** and click on the link again to see the content change.
 
 <div class="c-project-output">
 
-![ADD](images/step11.png)
+![ADD](images/step12.png)
 
 </div>

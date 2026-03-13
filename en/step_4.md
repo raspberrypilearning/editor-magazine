@@ -22,7 +22,7 @@ line_number_start: 8
 line_highlights: 9-10
 ---
 body {
-  background: linear-gradient (top bottom right, gold, coral);
+  background: linear-gradient(to bottom right, gold, coral);
   font-family: Comic Sans MS;
   padding: 15px;
 }
@@ -41,3 +41,6 @@ Click **Run** and see your background and font change in the visual editor.
 ![ADD](images/step4.png)
 
 </div>
+
+
+

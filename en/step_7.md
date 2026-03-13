@@ -17,7 +17,7 @@ line_highlights: 10
 ---
 <h1>My magazine</h1>
 <div class="column1">
-	Welcome to the kitten fan club
+    Welcome to the kitten fan page where you will learn all about these cute furry animals.
 </div>
 --- /code ---
 </div>

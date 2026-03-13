@@ -16,7 +16,7 @@ Style the second page of the website. Add a new `font-family` and change the `co
 
 Fill in the content in `page2.html`. Add more text, and look on the **images** tab to see some other pictures you could include on your page. 
 
-![ADD](images/step12.png)
+![ADD](images/step13.png)
 
 --- /task ---
 

@@ -27,7 +27,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 8
-line_highlights: 11
+line_highlights: 12
 ---
   <h1>My magazine</h1>
   <div class="column1">

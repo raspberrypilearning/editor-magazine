@@ -29,12 +29,12 @@ line_number_start: 14
 line_highlights: 16, 21
 ---
 .column1 {
-    width: 48%;
+    width: 45%;
 	float: left;
 }
 
 .column2 {
-    width: 48%;
+    width: 45%;
 	float: right;
 }
 
