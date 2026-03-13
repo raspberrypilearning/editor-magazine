@@ -16,7 +16,7 @@ Click **Add file** and call your new file `page2.html`:
 
 --- task ---
 
-Go back to `index.html`. Add a link to your second page using the code below.
+Go back to `index.html`. Add a new line with `<br>` and a link to your second page using the code below.
 
 --- /task ---
 
@@ -29,11 +29,12 @@ line_numbers: true
 line_number_start: 8
 line_highlights: 11
 ---
-<h1>My magazine</h1>
-<div class="column1">
-	Welcome to the kitten fan club
+  <h1>My magazine</h1>
+  <div class="column1">
+    Welcome to the kitten fan page where you will learn all about these cute furry animals.
+    <br>
     <a href="page2.html">Page 2</a>
-</div>
+  </div>
 --- /code ---
 </div>
 

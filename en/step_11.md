@@ -6,11 +6,6 @@ Select all of the code from `index.html`, copy it and then paste it into `page2.
 
 --- /task ---
 
---- task ---
-
-In `page2.html`, change the `<h1>` title to the title for your new page.
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -18,22 +13,35 @@ In `page2.html`, change the `<h1>` title to the title for your new page.
 language: html
 filename: page2.html
 line_numbers: true
-line_number_start: 8
-line_highlights: 8, 10
+line_number_start: 1
+line_highlights: 1-20
 ---
-<h1>Kitten care</h1>
-<div class="column1">
-	Another page about cats
-      <a href="page2.html">Page 2</a>
-</div>
-<div class="column2">
-	<img src="kitten.jpg" class="photo">
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>My magazine</h1>
+  <div class="column1">
+    Welcome to the kitten fan page where you will learn all about these cute furry animals.
+    <br>
+    <a href="page2.html">Page 2</a>
+  </div>
+  <div class="column2">
+    <img src="kitten.jpg" class="photo">
+  </div>
+
+</body>
+
+</html>
 --- /code ---
 </div>
 
 --- task ---
 
-Click **Run** and click on the link again to see the content appear.
+Click **Run** and click on the page 2 link to see the content appear. It will look the same as the home page.
 
 --- /task ---
 

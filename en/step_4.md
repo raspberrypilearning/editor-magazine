@@ -22,7 +22,7 @@ line_number_start: 8
 line_highlights: 9-10
 ---
 body {
-  background: linear-gradient(to bottom gold, , coral);
+  background: linear-gradient (top bottom right, gold, coral);
   font-family: Comic Sans MS;
   padding: 15px;
 }
