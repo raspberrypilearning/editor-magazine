@@ -1,51 +1,50 @@
-<h2 class="c-project-heading--task">Another page</h2>
+<h2 class="c-project-heading--task">Copy content</h2>
 
---- task ---
+### Step 1
 
-Add another page to your magazine website.
+Select all of the code from `index.html`, copy it and then paste it into `page2.html`.
 
---- /task ---
 
---- task ---
-
-Click **Add file** and call your new file `page2.html`:
-
-![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in](images/page2.png)
-
---- /task ---
-
---- task ---
-
-Go back to `index.html`. Add a new line with `<br>` and a link to your second page using the code below.
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---
 ---
 language: html
-filename: index.html
+filename: page2.html
 line_numbers: true
-line_number_start: 8
-line_highlights: 12
+line_number_start: 1
+line_highlights: 1-20
 ---
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
   <h1>My magazine</h1>
   <div class="column1">
     Welcome to the kitten fan page where you will learn all about these cute furry animals.
     <br>
     <a href="page2.html">Page 2</a>
   </div>
+  <div class="column2">
+    <img src="kitten.jpg" class="photo">
+  </div>
+
+</body>
+
+</html>
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
-Test that you can click on your new link and move to page 2 of your magazine.
+Click **Run** and click on the page 2 link to see the content appear. It will look the same as the home page.
 
---- /task ---
 
 <div class="c-project-output">
 
-![ADD](images/step10.png)
+![ADD](images/step11.png)
 
 </div>

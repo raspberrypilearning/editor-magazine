@@ -1,34 +1,56 @@
-<h2 class="c-project-heading--task">Heading</h2>
 
---- task ---
+<h2 class="c-project-heading--task">STEP TITLE</h2>
 
-Decide on a name for your magazine and add it as an `<h1>` heading.
+### Step 1
 
---- /task ---
+Change the style of the heading.
+
+
+### Step 2
+
+In the sidebar, open the `style.css` file.  
+
+![ADD](images/step3a.png)
+
+
+### Step 3
+
+Change the colours in `color` and `background` using the code below.
+
 
 <div class="c-project-code">
+
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 7
-line_highlights: 8
+line_number_start: 1
+line_highlights: 3-4
 ---
-<body>
-<h1>My Magazine</h1>
-
-</body>
+h1 {
+    text-align: center;
+    color: blue;
+    background: yellow;
+    padding: 5px;
+}
 --- /code ---
 </div>
---- task ---
+### Step 4
 
-Click **Run** and see your title in the visual editor.
+Click **Run** and see your style in the visual editor. Experiment with colours until you find a combination you like.
 
---- /task ---
 
 <div class="c-project-output">
 
-![ADD](images/step2.png)
+![ADD](images/step3b.png)
+
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 </div>

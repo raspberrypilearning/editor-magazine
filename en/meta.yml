@@ -16,24 +16,24 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
-- title: Step 3
-  completion:
-  - engaged
-- title: Step 4
-- title: Step 5
-- title: Step 6
-- title: Step 7
-- title: Step 8
-- title: Step 9
-- title: Step 10
-  completion:
-  - internal
-- title: Step 11
-- title: Step 12
-- title: Step 13
-  challenge: true
-  completion:
-  - external
+  - title: Heading
+  - title: STEP TITLE
+    completion:
+      - engaged
+  - title: Change the background
+  - title: Add columns
+  - title: Align the columns
+  - title: Align the columns
+  - title: Add an image
+  - title: Style the image
+  - title: Another page
+  - title: Copy content
+    completion:
+      - internal
+  - title: Edit page 2
+    completion:
+      - external
+  - title: Challenge
+    challenge: true

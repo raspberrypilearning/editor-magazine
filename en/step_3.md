@@ -1,60 +1,40 @@
+<h2 class="c-project-heading--task">Change the background</h2>
 
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+### Step 1
 
---- task ---
+Look at the CSS style for `body`. Change the colours of the **background** and the **font** to your own choices.
 
-Change the style of the heading.
 
---- /task ---
+### Step 2
 
---- task ---
+Try adding other fonts, for example: `arial`, `impact`, `tahoma` or `Comic Sans MS`
 
-In the sidebar, open the `style.css` file.  
-
-![ADD](images/step3a.png)
-
---- /task ---
-
---- task ---
-
-Change the colours in `color` and `background` using the code below.
-
---- /task ---
 
 <div class="c-project-code">
-
 --- code ---
 ---
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 1
-line_highlights: 3-4
+line_number_start: 8
+line_highlights: 9-10
 ---
-h1 {
-    text-align: center;
-    color: blue;
-    background: yellow;
-    padding: 5px;
+body {
+  background: linear-gradient(to bottom right, gold, coral);
+  font-family: Comic Sans MS;
+  padding: 15px;
 }
+
 --- /code ---
 </div>
---- task ---
 
-Click **Run** and see your style in the visual editor. Experiment with colours until you find a combination you like.
+### Step 3
 
---- /task ---
+Click **Run** and see your background and font change in the visual editor.
+
 
 <div class="c-project-output">
 
-![ADD](images/step3b.png)
-
-</div>
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+![ADD](images/step4.png)
 
 </div>

@@ -1,51 +1,34 @@
-<h2 class="c-project-heading--task">Add an image</h2>
+<h2 class="c-project-heading--task">Style the image</h2>
 
---- task ---
+### Step 1
 
-Replace the `Column 2` text with a kitten picture.
+Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
 
---- /task ---
-
---- task ---
-
-Switch to index.html and add the `<img>`.
-
---- /task ---
 
 
 <div class="c-project-code">
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 12
-line_highlights: 13
+line_number_start: 28
+line_highlights: 29-30
 ---
-<div class="column2">
-	<img src="kitten.jpg" class="photo">
-</div>
-</body>
-
+.photo {
+    box-shadow: 6px 6px 6px violet;
+    transform: rotate(10deg);
+}
 --- /code ---
 </div>
---- task ---
+### Step 2
 
 Click **Run** and see your how your image appear.
 
---- /task ---
+
 
 <div class="c-project-output">
 
-![ADD](images/step8.png)
-
-</div>
-
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-The image has a `photo` class. An HTML **class** is a way to choose certain parts of a web page so you can change how they look using CSS.
+![ADD](images/step9.png)
 
 </div>

@@ -1,47 +1,49 @@
-<h2 class="c-project-heading--task">Add columns</h2>
+<h2 class="c-project-heading--task">Align the columns</h2>
 
---- task ---
+### Step 1
 
-Websites often use multiple columns. Create a two column layout for your magazine.
+Make the columns `float` to the left or right.
 
---- /task ---
 
---- task ---
+### Step 2
 
-First add the columns in HTML. Select the `index.html` file and add code to create two columns. 
+Switch back to `style.css` and find the styles for `column1` and `column2`.
 
---- /task ---
+
+
+### Step 3
+
+Add a `float` property to each column style so that one floats to the left and the other floats to the right.
+
 
 <div class="c-project-code">
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 7
-line_highlights: 9-14
+line_number_start: 14
+line_highlights: 16, 21
 ---
-<body>
-<h1>My magazine</h1>
-<div class="column1">
-	Column 1
-</div>
-<div class="column2">
-	Column 2
-</div>
-</body>
+.column1 {
+    width: 45%;
+	float: left;
+}
+
+.column2 {
+    width: 45%;
+	float: right;
+}
 
 --- /code ---
 </div>
+### Step 4
 
---- task ---
+Click **Run** and see your how your columns align.
 
-Click **Run** and see your the text in two columns. They need to be styled with CSS to have a two column layout.
-
---- /task ---
 
 <div class="c-project-output">
 
-![ADD](images/step5.png)
+![ADD](images/step6.png)
 
 </div>

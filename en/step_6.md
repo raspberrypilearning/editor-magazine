@@ -1,53 +1,30 @@
 <h2 class="c-project-heading--task">Align the columns</h2>
 
---- task ---
+### Step 1
 
-Make the columns `float` to the left or right.
+Add some text to your web page in `Column 1`.
 
---- /task ---
-
---- task ---
-
-Switch back to `style.css` and find the styles for `column1` and `column2`.
-
---- /task ---
-
-
---- task ---
-
-Add a `float` property to each column style so that one floats to the left and the other floats to the right.
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---
 ---
-language: css
-filename: style.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 14
-line_highlights: 16, 21
+line_number_start: 8
+line_highlights: 10
 ---
-.column1 {
-    width: 45%;
-	float: left;
-}
-
-.column2 {
-    width: 45%;
-	float: right;
-}
-
+<h1>My magazine</h1>
+<div class="column1">
+    Welcome to the kitten fan page where you will learn all about these cute furry animals.
+</div>
 --- /code ---
 </div>
---- task ---
 
-Click **Run** and see your how your columns align.
-
---- /task ---
+### Step 2
 
 <div class="c-project-output">
 
-![ADD](images/step6.png)
+![ADD](images/step7.png)
 
 </div>

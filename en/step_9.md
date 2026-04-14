@@ -1,36 +1,47 @@
-<h2 class="c-project-heading--task">Style the image</h2>
+<h2 class="c-project-heading--task">Another page</h2>
 
---- task ---
+### Step 1
 
-Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
+Add another page to your magazine website.
 
---- /task ---
+
+### Step 2
+
+Click **Add file** and call your new file `page2.html`:
+
+![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in](images/page2.png)
+
+
+### Step 3
+
+Go back to `index.html`. Add a new line with `<br>` and a link to your second page using the code below.
 
 
 <div class="c-project-code">
 --- code ---
 ---
-language: css
-filename: style.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 28
-line_highlights: 29-30
+line_number_start: 8
+line_highlights: 12
 ---
-.photo {
-    box-shadow: 6px 6px 6px violet;
-    transform: rotate(10deg);
-}
+  <h1>My magazine</h1>
+  <div class="column1">
+    Welcome to the kitten fan page where you will learn all about these cute furry animals.
+    <br>
+    <a href="page2.html">Page 2</a>
+  </div>
 --- /code ---
 </div>
---- task ---
 
-Click **Run** and see your how your image appear.
+### Step 4
 
---- /task ---
+Test that you can click on your new link and move to page 2 of your magazine.
 
 
 <div class="c-project-output">
 
-![ADD](images/step9.png)
+![ADD](images/step10.png)
 
 </div>

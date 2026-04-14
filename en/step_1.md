@@ -1,14 +1,32 @@
-<h2 class="c-project-heading--task">What you will make</h2>
+<h2 class="c-project-heading--task">Heading</h2>
 
---- task ---
+### Step 1
 
-Use HTML and CSS to create a multi-page magazine website. 
+Decide on a name for your magazine and add it as an `<h1>` heading.
 
---- /task ---
+
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 7
+line_highlights: 8
+---
+<body>
+<h1>My Magazine</h1>
+
+</body>
+--- /code ---
+</div>
+### Step 2
+
+Click **Run** and see your title in the visual editor.
+
 
 <div class="c-project-output">
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-magazine-complete" width="100%" height="900" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+![ADD](images/step2.png)
 
 </div>
-

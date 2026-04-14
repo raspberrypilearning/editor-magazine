@@ -1,46 +1,44 @@
-<h2 class="c-project-heading--task">Change the background</h2>
+<h2 class="c-project-heading--task">Add columns</h2>
 
---- task ---
+### Step 1
 
-Look at the CSS style for `body`. Change the colours of the **background** and the **font** to your own choices.
+Websites often use multiple columns. Create a two column layout for your magazine.
 
---- /task ---
 
---- task ---
+### Step 2
 
-Try adding other fonts, for example: `arial`, `impact`, `tahoma` or `Comic Sans MS`
+First add the columns in HTML. Select the `index.html` file and add code to create two columns. 
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
 ---
-language: css
-filename: style.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 8
-line_highlights: 9-10
+line_number_start: 7
+line_highlights: 9-14
 ---
-body {
-  background: linear-gradient(to bottom right, gold, coral);
-  font-family: Comic Sans MS;
-  padding: 15px;
-}
+<body>
+<h1>My magazine</h1>
+<div class="column1">
+	Column 1
+</div>
+<div class="column2">
+	Column 2
+</div>
+</body>
 
 --- /code ---
 </div>
 
---- task ---
+### Step 3
 
-Click **Run** and see your background and font change in the visual editor.
+Click **Run** and see your the text in two columns. They need to be styled with CSS to have a two column layout.
 
---- /task ---
 
 <div class="c-project-output">
 
-![ADD](images/step4.png)
+![ADD](images/step5.png)
 
 </div>
-
-
-
