@@ -1,18 +1,18 @@
 <h2 class="c-project-heading--task">Another page</h2>
 
-### Step 1
-
 Add another page to your magazine website.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Click **Add file** and call your new file `page2.html`:
 
+<div class="c-project-output">
 ![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in](images/page2.png)
+</div>
 
-
-### Step 3
+## Step 2
 
 Go back to `index.html`. Add a new line with `<br>` and a link to your second page using the code below.
 
@@ -35,7 +35,7 @@ line_highlights: 12
 --- /code ---
 </div>
 
-### Step 4
+## Step 3
 
 Test that you can click on your new link and move to page 2 of your magazine.
 
@@ -45,3 +45,7 @@ Test that you can click on your new link and move to page 2 of your magazine.
 ![ADD](images/step10.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Style the image</h2>
 
-### Step 1
-
 Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -21,7 +21,8 @@ line_highlights: 29-30
 }
 --- /code ---
 </div>
-### Step 2
+
+## Step 2
 
 Click **Run** and see your how your image appear.
 
@@ -32,3 +33,7 @@ Click **Run** and see your how your image appear.
 ![ADD](images/step9.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

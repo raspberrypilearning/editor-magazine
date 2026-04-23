@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Add an image</h2>
 
-### Step 1
-
 Replace the `Column 2` text with a kitten picture.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Switch to index.html and add the `<img>`.
 
@@ -27,7 +26,8 @@ line_highlights: 13
 
 --- /code ---
 </div>
-### Step 3
+
+## Step 2
 
 Click **Run** and see your how your image appear.
 
@@ -39,10 +39,14 @@ Click **Run** and see your how your image appear.
 </div>
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 The image has a `photo` class. An HTML **class** is a way to choose certain parts of a web page so you can change how they look using CSS.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

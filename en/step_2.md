@@ -1,19 +1,18 @@
-
 <h2 class="c-project-heading--task">STEP TITLE</h2>
-
-### Step 1
 
 Change the style of the heading.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 In the sidebar, open the `style.css` file.  
 
+<div class="c-project-output">
 ![ADD](images/step3a.png)
+</div>
 
-
-### Step 3
+## Step 2
 
 Change the colours in `color` and `background` using the code below.
 
@@ -36,7 +35,8 @@ h1 {
 }
 --- /code ---
 </div>
-### Step 4
+
+## Step 3
 
 Click **Run** and see your style in the visual editor. Experiment with colours until you find a combination you like.
 
@@ -47,10 +47,14 @@ Click **Run** and see your style in the visual editor. Experiment with colours u
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
