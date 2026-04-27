@@ -35,4 +35,4 @@ Click **Run** and see your title in the visual editor.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the title `My Magazine` appears in the preview.

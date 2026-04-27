@@ -48,4 +48,4 @@ Click **Run** and see your the text in two columns. They need to be styled with 
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the page shows `Column 1` and `Column 2` under the title.

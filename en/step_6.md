@@ -32,4 +32,4 @@ line_highlights: 10
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the first column now shows your welcome text.

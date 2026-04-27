@@ -51,4 +51,4 @@ Click **Run** and click on the page 2 link to see the content appear. It will lo
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run**, open `Page 2`, and check that the second page looks the same as the home page.

@@ -26,4 +26,4 @@ Experiment with style and adding content until you have it how you want. Here is
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that your second page has your new styling and extra content.

@@ -49,4 +49,4 @@ The image has a `photo` class. An HTML **class** is a way to choose certain part
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the kitten picture appears in the second column.

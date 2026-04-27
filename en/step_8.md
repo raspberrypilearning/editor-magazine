@@ -36,4 +36,4 @@ Click **Run** and see your how your image appear.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the picture is tilted and has a violet shadow.

@@ -44,4 +44,4 @@ Click **Run** and see your background and font change in the visual editor.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the page background and font have changed.

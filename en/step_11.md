@@ -44,4 +44,4 @@ Click **Run** and click on the link again to see the content change.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run**, open the link again, and check that page 2 now shows different content, including the `Kitten care` heading and a new picture.

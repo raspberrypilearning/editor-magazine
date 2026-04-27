@@ -48,4 +48,4 @@ Click **Run** and see your how your columns align.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the two columns sit side by side on the page.

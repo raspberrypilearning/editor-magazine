@@ -48,4 +48,4 @@ Test that you can click on your new link and move to page 2 of your magazine.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that a `Page 2` link appears in the first column and opens the second page when you click it.

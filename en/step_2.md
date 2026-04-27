@@ -57,4 +57,4 @@ You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_bl
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that your title is styled with blue text on a yellow background.
