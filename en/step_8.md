@@ -1,0 +1,39 @@
+<h2 class="c-project-heading--task">Style the image</h2>
+
+Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
+
+<div class="c-project-code">
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 28
+line_highlights: 29-30
+---
+.photo {
+    box-shadow: 6px 6px 6px violet;
+    transform: rotate(10deg);
+}
+--- /code ---
+</div>
+
+## Step 2
+
+Click **Run** and see your how your image appear.
+
+
+
+<div class="c-project-output">
+
+![ADD](images/step9.png)
+
+</div>
+
+## Now run your code
+
+Click **Run** and check that the picture is tilted and has a violet shadow.

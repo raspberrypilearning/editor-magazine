@@ -1,14 +1,39 @@
-title: Project title in sentence case
-hero_image: images/banner.png
-description: A short description of the project
+---
+title: Magazine
+hero_image: images/magazine.png
+theme: red
+duration: 2
 listed: false
-pdf: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a multi-page magazine website.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+landing: true
 steps:
-  - title: What you will make
-  - title: Step title
+  - title: Heading
+  - title: STEP TITLE
     completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
+      - engaged
+  - title: Change the background
+  - title: Add columns
+  - title: Align the columns
+  - title: Align the columns
+  - title: Add an image
+  - title: Style the image
+  - title: Another page
+  - title: Copy content
+    completion:
+      - internal
+  - title: Edit page 2
     completion:
       - external
+  - title: Challenge
+    challenge: true

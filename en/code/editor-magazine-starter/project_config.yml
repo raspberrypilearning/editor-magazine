@@ -1,0 +1,4 @@
+name: 'Magazine-starter'
+identifier: 'editor-magazine-starter'
+type: 'html'
+build: true
