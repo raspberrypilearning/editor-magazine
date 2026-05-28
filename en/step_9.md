@@ -2,8 +2,6 @@
 
 Add another page to your magazine website.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Click **Add file** and call your new file `page2.html`:

@@ -1,8 +1,6 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Change the style</h2>
 
 Change the style of the heading.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ## Step 1
 

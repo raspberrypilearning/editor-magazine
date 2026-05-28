@@ -2,8 +2,6 @@
 
 Replace the `Column 2` text with a kitten picture.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Switch to index.html and add the `<img>`.

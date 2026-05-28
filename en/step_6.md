@@ -2,10 +2,6 @@
 
 Add some text to your web page in `Column 1`.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
-## Step 1
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -21,8 +17,6 @@ line_highlights: 10
 </div>
 --- /code ---
 </div>
-
-## Step 2
 
 <div class="c-project-output">
 

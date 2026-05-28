@@ -2,8 +2,6 @@
 
 Decide on a name for your magazine and add it as an `<h1>` heading.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">

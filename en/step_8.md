@@ -2,8 +2,6 @@
 
 Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">
