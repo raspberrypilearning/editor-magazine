@@ -2,8 +2,6 @@
 
 Look at the CSS style for `body`.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Change the colours of the **background** and the **font** to your own choices.
