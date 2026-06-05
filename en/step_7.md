@@ -4,7 +4,7 @@ Replace the `Column 2` text with a kitten picture.
 
 ## Step 1
 
-Switch to index.html and add the `<img>`.
+Go to index.html and add the `<img>`.
 
 
 
@@ -27,7 +27,7 @@ line_highlights: 13
 
 ## Step 2
 
-Click **Run** and see your how your image appear.
+Click **Run** and see your how your image looks.
 
 
 <div class="c-project-output">
@@ -41,7 +41,7 @@ Click **Run** and see your how your image appear.
 
 <div class="c-project-callout c-project-callout--tip">
 
-The image has a `photo` class. An HTML **class** is a way to choose certain parts of a web page so you can change how they look using CSS.
+The image has a `photo` class. An HTML **class** is a way to choose certain parts of a webpage so you can change how they look using CSS.
 
 </div>
 
