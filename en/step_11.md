@@ -2,11 +2,9 @@
 
 In `page2.html`, change the `<h1>` title to the title for your new page.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
-Add a link back to `index.html` so that you can click on it to get back to the first page
+Add a link back to `index.html` so that you can click on it to get back to the first page.
 
 
 
@@ -33,7 +31,7 @@ line_highlights: 8, 10-11
 
 ## Step 2
 
-Click **Run** and click on the link again to see the content change.
+Click **Run** and click on the link to check it works.
 
 
 <div class="c-project-output">
