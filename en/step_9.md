@@ -7,7 +7,7 @@ Add another page to your magazine website.
 Click **Add file** and call your new file `page2.html`:
 
 <div class="c-project-output">
-![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in](images/page2.png)
+![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in.](images/page2.png)
 </div>
 
 ## Step 2
