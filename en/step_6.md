@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Align the columns</h2>
 
-Add some text to your web page in `Column 1`.
+Add some text to your webpage in `Column 1`.
 
 <div class="c-project-code">
 --- code ---
