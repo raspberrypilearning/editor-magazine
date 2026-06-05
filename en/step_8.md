@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Style the image</h2>
 
-Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
+Go back to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
 
 ## Step 1
 
@@ -22,7 +22,7 @@ line_highlights: 29-30
 
 ## Step 2
 
-Click **Run** and see your how your image appear.
+Click **Run** and see your how your image looks now.
 
 
 
@@ -34,4 +34,4 @@ Click **Run** and see your how your image appear.
 
 ## Now run your code
 
-Click **Run** and check that the picture is tilted and has a violet shadow.
+Click **Run** and check that the picture has the angle and shadow you chose.
