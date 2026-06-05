@@ -2,8 +2,6 @@
 
 Upgrade your website magazine!
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Style the second page of the website. Add a new `font-family` and change the `color` in CSS.
