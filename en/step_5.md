@@ -5,7 +5,7 @@ Make the columns `float` to the left or right.
 
 ## Step 1
 
-Switch back to `style.css` and find the styles for `column1` and `column2`.
+Go back to `style.css` and find the styles for `column1` and `column2`.
 
 ## Step 2
 
