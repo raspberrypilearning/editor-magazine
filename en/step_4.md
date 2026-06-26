@@ -41,7 +41,7 @@ Click **Run** and see your the text in two columns. They need to be styled with 
 
 <div class="c-project-output">
 
-![ADD](images/step5.png)
+![Visual preview showing the page content split into two columns](images/step5.png)
 
 </div>
 

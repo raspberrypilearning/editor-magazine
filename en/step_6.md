@@ -24,6 +24,10 @@ line_highlights: 10
 
 </div>
 
-## Now run your code
+<div class="c-project-output">
+
+![Visual preview showing welcome text in the first column](images/step7.png)
+
+</div>
 
 Click **Run** and check that the first column now shows your welcome text.

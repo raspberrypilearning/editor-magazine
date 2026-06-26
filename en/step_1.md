@@ -2,8 +2,6 @@
 
 Decide on a name for your magazine and add it as an `<h1>` heading.
 
-## Step 1
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -20,17 +18,13 @@ line_highlights: 8
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** and see your title in the visual editor.
+Check that your title appears in the preview.
 
 
 <div class="c-project-output">
 
-![ADD](images/step2.png)
+![Preview showing the magazine title in the visual editor](images/step2.png)
 
 </div>
-
-## Now run your code
-
-Click **Run** and check that the title `My Magazine` appears in the preview.

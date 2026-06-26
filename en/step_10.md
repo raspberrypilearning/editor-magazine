@@ -43,7 +43,7 @@ Click **Run** and click on the page 2 link to see the content appear. It will lo
 
 <div class="c-project-output">
 
-![ADD](images/step11.png)
+![Visual preview showing page 2 with the same content as the homepage](images/step11.png)
 
 </div>
 

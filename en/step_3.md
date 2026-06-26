@@ -29,17 +29,13 @@ body {
 --- /code ---
 </div>
 
-## Step 3
+## Now run your code
 
-Click **Run** and see your background and font change in the visual editor.
+See your background and font change in the visual editor.
 
 
 <div class="c-project-output">
 
-![ADD](images/step4.png)
+![Visual preview showing the page background and font update](images/step4.png)
 
 </div>
-
-## Now run your code
-
-Click **Run** and check that the page background and font have changed.

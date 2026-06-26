@@ -28,7 +28,7 @@ Click **Run** and see your how your image looks now.
 
 <div class="c-project-output">
 
-![ADD](images/step9.png)
+![Visual preview showing the image with a rotated shadow effect](images/step9.png)
 
 </div>
 

@@ -40,7 +40,7 @@ Test that you can click on your new link and move to page 2 of your magazine.
 
 <div class="c-project-output">
 
-![ADD](images/step10.png)
+![Visual preview showing the new Page 2 link in the first column](images/step10.png)
 
 </div>
 

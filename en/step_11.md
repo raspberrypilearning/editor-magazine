@@ -36,7 +36,7 @@ Click **Run** and click on the link to check it works.
 
 <div class="c-project-output">
 
-![ADD](images/step12.png)
+![Visual preview showing page 2 now with a back link and updated content](images/step12.png)
 
 </div>
 

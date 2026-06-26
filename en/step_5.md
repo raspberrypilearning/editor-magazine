@@ -41,7 +41,7 @@ Click **Run** and see your how your columns align.
 
 <div class="c-project-output">
 
-![ADD](images/step6.png)
+![Visual preview showing the two floated columns side by side](images/step6.png)
 
 </div>
 

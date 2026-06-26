@@ -32,7 +32,7 @@ Click **Run** and see your how your image looks.
 
 <div class="c-project-output">
 
-![ADD](images/step8.png)
+![Visual preview showing the kitten picture in the second column](images/step8.png)
 
 </div>
 
