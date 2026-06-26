@@ -18,11 +18,10 @@ line_highlights: 10
 --- /code ---
 </div>
 
-<div class="c-project-output">
+## Now run your code
 
-![ADD](images/step7.png)
+Check that the first column now shows your welcome text.
 
-</div>
 
 <div class="c-project-output">
 
@@ -30,4 +29,3 @@ line_highlights: 10
 
 </div>
 
-Click **Run** and check that the first column now shows your welcome text.

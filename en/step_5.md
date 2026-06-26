@@ -2,7 +2,6 @@
 
 Make the columns `float` to the left or right.
 
-
 ## Step 1
 
 Go back to `style.css` and find the styles for `column1` and `column2`.
@@ -34,10 +33,9 @@ line_highlights: 16, 21
 --- /code ---
 </div>
 
-## Step 3
+## Now run your code
 
-Click **Run** and see your how your columns align.
-
+See your how your columns align.
 
 <div class="c-project-output">
 
@@ -45,6 +43,3 @@ Click **Run** and see your how your columns align.
 
 </div>
 
-## Now run your code
-
-Click **Run** and check that the two columns sit side by side on the page.

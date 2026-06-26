@@ -44,9 +44,9 @@ Click **Run** and see your style in the visual editor. Experiment with colours u
 
 </div>
 
-### Tip
-
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 

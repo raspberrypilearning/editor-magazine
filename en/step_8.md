@@ -2,8 +2,6 @@
 
 Go back to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
 
-## Step 1
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -20,9 +18,9 @@ line_highlights: 29-30
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** and see your how your image looks now.
+Check that the picture has the angle and shadow you chose.
 
 
 
@@ -32,6 +30,3 @@ Click **Run** and see your how your image looks now.
 
 </div>
 
-## Now run your code
-
-Click **Run** and check that the picture has the angle and shadow you chose.

@@ -2,11 +2,7 @@
 
 Replace the `Column 2` text with a kitten picture.
 
-## Step 1
-
 Go to index.html and add the `<img>`.
-
-
 
 <div class="c-project-code">
 --- code ---
@@ -25,10 +21,9 @@ line_highlights: 13
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** and see your how your image looks.
-
+Check that the picture appears in the second column.
 
 <div class="c-project-output">
 
@@ -37,14 +32,10 @@ Click **Run** and see your how your image looks.
 </div>
 
 
-### Tip
-
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 The image has a `photo` class. An HTML **class** is a way to choose certain parts of a webpage so you can change how they look using CSS.
 
 </div>
-
-## Now run your code
-
-Click **Run** and check that the kitten picture appears in the second column.

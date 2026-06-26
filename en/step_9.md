@@ -7,13 +7,14 @@ Add another page to your magazine website.
 Click **Add file** and call your new file `page2.html`:
 
 <div class="c-project-output">
+
 ![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in.](images/page2.png)
+
 </div>
 
 ## Step 2
 
 Go back to `index.html`. Add a new line with `<br>` and a link to your second page using the code below.
-
 
 <div class="c-project-code">
 --- code ---
@@ -33,7 +34,7 @@ line_highlights: 12
 --- /code ---
 </div>
 
-## Step 3
+## Now run your code
 
 Test that you can click on your new link and move to page 2 of your magazine.
 
@@ -43,7 +44,3 @@ Test that you can click on your new link and move to page 2 of your magazine.
 ![Visual preview showing the new Page 2 link in the first column](images/step10.png)
 
 </div>
-
-## Now run your code
-
-Click **Run** and check that a `Page 2` link appears in the first column and opens the second page when you click it.
