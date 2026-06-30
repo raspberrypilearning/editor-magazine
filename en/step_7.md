@@ -2,11 +2,7 @@
 
 Replace the `Column 2` text with a kitten picture.
 
-## Step 1
-
-Switch to index.html and add the `<img>`.
-
-
+Go to index.html and add the `<img>`.
 
 <div class="c-project-code">
 --- code ---
@@ -25,26 +21,21 @@ line_highlights: 13
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** and see your how your image appear.
-
+Check that the picture appears in the second column.
 
 <div class="c-project-output">
 
-![ADD](images/step8.png)
+![Visual preview showing the kitten picture in the second column](images/step8.png)
 
 </div>
 
-
-### Tip
 
 <div class="c-project-callout c-project-callout--tip">
 
-The image has a `photo` class. An HTML **class** is a way to choose certain parts of a web page so you can change how they look using CSS.
+### Tip
+
+The image has a `photo` class. An HTML **class** is a way to choose certain parts of a webpage so you can change how they look using CSS.
 
 </div>
-
-## Now run your code
-
-Click **Run** and check that the kitten picture appears in the second column.

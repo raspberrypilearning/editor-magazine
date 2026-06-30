@@ -1,8 +1,6 @@
 <h2 class="c-project-heading--task">Style the image</h2>
 
-Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
-
-## Step 1
+Go back to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
 
 <div class="c-project-code">
 --- code ---
@@ -20,18 +18,15 @@ line_highlights: 29-30
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** and see your how your image appear.
+Check that the picture has the angle and shadow you chose.
 
 
 
 <div class="c-project-output">
 
-![ADD](images/step9.png)
+![Visual preview showing the image with a rotated shadow effect](images/step9.png)
 
 </div>
 
-## Now run your code
-
-Click **Run** and check that the picture is tilted and has a violet shadow.

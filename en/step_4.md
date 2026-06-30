@@ -1,16 +1,8 @@
 <h2 class="c-project-heading--task">Add columns</h2>
 
-Websites often use multiple columns.
+Websites often use multiple columns to space out the content. Create a two-column layout for your magazine.
 
-
-## Step 1
-
-Create a two column layout for your magazine.
-
-## Step 2
-
-First add the columns in HTML. Select the `index.html` file and add code to create two columns. 
-
+First, add the columns in HTML. Select the `index.html` file and add this code to create two columns. 
 
 <div class="c-project-code">
 --- code ---
@@ -34,17 +26,12 @@ line_highlights: 9-14
 --- /code ---
 </div>
 
-## Step 3
+## Now run your code
 
-Click **Run** and see your the text in two columns. They need to be styled with CSS to have a two column layout.
-
+See your the text in two columns. They need to be styled with CSS to have a two-column layout.
 
 <div class="c-project-output">
 
-![ADD](images/step5.png)
+![Visual preview showing the page content split into two columns](images/step5.png)
 
 </div>
-
-## Now run your code
-
-Click **Run** and check that the page shows `Column 1` and `Column 2` under the title.

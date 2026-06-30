@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Align the columns</h2>
 
-Add some text to your web page in `Column 1`.
+Add some text to your webpage in `Column 1`.
 
 <div class="c-project-code">
 --- code ---
@@ -18,12 +18,14 @@ line_highlights: 10
 --- /code ---
 </div>
 
+## Now run your code
+
+Check that the first column now shows your welcome text.
+
+
 <div class="c-project-output">
 
-![ADD](images/step7.png)
+![Visual preview showing welcome text in the first column](images/step7.png)
 
 </div>
 
-## Now run your code
-
-Click **Run** and check that the first column now shows your welcome text.

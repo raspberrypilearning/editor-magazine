@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Copy content</h2>
 
-Select all of the code from `index.html`, copy it and then paste it into `page2.html`.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
-## Step 1
+Select all of the code from `index.html`, copy it, and then paste it into `page2.html`.
 
 <div class="c-project-code">
 --- code ---
@@ -38,17 +34,13 @@ line_highlights: 1-20
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** and click on the page 2 link to see the content appear. It will look the same as the home page.
+Click on the page 2 link to see the content appear. It will look the same as the homepage.
 
 
 <div class="c-project-output">
 
-![ADD](images/step11.png)
+![Visual preview showing page 2 with the same content as the homepage](images/step11.png)
 
 </div>
-
-## Now run your code
-
-Click **Run**, open `Page 2`, and check that the second page looks the same as the home page.

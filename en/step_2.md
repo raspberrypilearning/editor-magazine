@@ -7,13 +7,12 @@ Change the style of the heading.
 In the sidebar, open the `style.css` file.  
 
 <div class="c-project-output">
-![ADD](images/step3a.png)
+![Open the style.css file in the code editor](images/step3a.png)
 </div>
 
 ## Step 2
 
 Change the colours in `color` and `background` using the code below.
-
 
 <div class="c-project-code">
 
@@ -34,25 +33,21 @@ h1 {
 --- /code ---
 </div>
 
-## Step 3
+## Now run your code
 
 Click **Run** and see your style in the visual editor. Experiment with colours until you find a combination you like.
 
 
 <div class="c-project-output">
 
-![ADD](images/step3b.png)
+![Visual preview of the styled title with blue text and yellow background](images/step3b.png)
 
 </div>
 
-### Tip
-
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 </div>
-
-## Now run your code
-
-Click **Run** and check that your title is styled with blue text on a yellow background.
