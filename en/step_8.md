@@ -1,32 +1,17 @@
-<h2 class="c-project-heading--task">Style the image</h2>
+## Style the image
 
 Go back to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
 
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 28
-line_highlights: 29-30
----
+```css filename="style.css" line_numbers="true" line_number_start="28" line_highlights="29-30"
 .photo {
     box-shadow: 6px 6px 6px violet;
     transform: rotate(10deg);
 }
---- /code ---
-</div>
+```
 
 ## Now run your code
 
 Check that the picture has the angle and shadow you chose.
 
-
-
-<div class="c-project-output">
-
 ![Visual preview showing the image with a rotated shadow effect](images/step9.png)
-
-</div>
 
