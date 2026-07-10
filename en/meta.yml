@@ -19,13 +19,13 @@ last_tested: 2017-01-01
 landing: true
 steps:
   - title: Heading
-  - title: STEP TITLE
+  - title: Change the style
     completion:
       - engaged
   - title: Change the background
   - title: Add columns
   - title: Align the columns
-  - title: Align the columns
+  - title: Add text
   - title: Add an image
   - title: Style the image
   - title: Another page

@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Change the background</h2>
+## Change the background
 
 Look at the CSS style for `body`.
 
@@ -11,31 +11,17 @@ Change the colours of the **background** and the **font** to your own choices.
 Try adding other fonts, for example: `arial`, `impact`, `tahoma` or `Comic Sans MS`
 
 
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 8
-line_highlights: 9-10
----
+```css filename="style.css" line_numbers="true" line_number_start="8" line_highlights="9-10"
 body {
   background: linear-gradient(to bottom right, gold, coral);
   font-family: Comic Sans MS;
   padding: 15px;
 }
 
---- /code ---
-</div>
+```
 
 ## Now run your code
 
 See your background and font change in the visual editor.
 
-
-<div class="c-project-output">
-
 ![Visual preview showing the page background and font update](images/step4.png)
-
-</div>
